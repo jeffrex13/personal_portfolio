@@ -1,0 +1,97 @@
+/* id selectors */
+#home,
+#about-me,
+#projects {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+#about-me,
+#projects,
+#contact-me {
+  color: #40514e;
+}
+
+#home {
+  height: 45rem;
+  background-color: #ffda77;
+  font-family: "Ubuntu", sans-serif;
+}
+
+#about-me {
+  width: 80%;
+  margin: 0 auto;
+  padding: 60px auto 100px;
+}
+
+#projects {
+  width: 100%;
+  margin: auto;
+  padding: 60px 60px 30px;
+}
+
+#contact-me {
+  text-align: center;
+  padding: 50px 0;
+}
+
+#footer {
+  background-color: #ffa45b;
+  text-align: center;
+  padding: 25px;
+}
+
+#footer-link {
+  text-decoration: none;
+  color: black;
+}
+
+/* class selectors */
+.nav-item {
+  padding: 0 40px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+}
+
+.profile-picture {
+  width: 300px;
+  border-radius: 200px;
+  padding: 50px;
+}
+
+.home-heading {
+  text-align: center;
+  padding-top: 300px;
+  font-size: 6vw;
+}
+
+.card {
+  margin: 50px auto;
+  max-width: 50rem;
+  width: 100%;
+}
+
+.contact-text {
+  padding: 10px 5px 5px;
+}
+
+.cert-image {
+  display: block;
+  padding: 20px;
+  margin: auto;
+  max-width: 600px;
+  width: 100%;
+}
+
+.proj-btn {
+  margin: 10px;
+}
+
+.fab {
+  color: black;
+  margin: 25px;
+}
+
+.copyright {
+  color: white;
+}
